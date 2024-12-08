@@ -1,5 +1,10 @@
 # keydiff
 
+[![lint](https://github.com/Syu-fu/keydiff/actions/workflows/lint.yml/badge.svg?branch=main)](https://github.com/Syu-fu/keydiff/actions/workflows/lint.yml)
+[![check license](https://github.com/Syu-fu/keydiff/actions/workflows/license-check.yml/badge.svg?branch=main)](https://github.com/Syu-fu/keydiff/actions/workflows/license-check.yml)
+[![test](https://github.com/Syu-fu/keydiff/actions/workflows/test.yml/badge.svg?branch=main)](https://github.com/Syu-fu/keydiff/actions/workflows/test.yml)
+[![Go Coverage](https://github.com/Syu-fu/keydiff/wiki/coverage.svg)](https://raw.githack.com/wiki/Syu-fu/keydiff/coverage.html)
+
 **keydiff** is a tool for comparing structured data based on specified keys. It allows you to identify differences between datasets quickly and easily. This is especially useful for verifying updates, detecting changes, and ensuring data consistency across files or systems.
 
 ## Features
